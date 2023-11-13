@@ -1,0 +1,1 @@
+# test-automation-java-template
