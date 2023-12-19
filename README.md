@@ -1,1 +1,1 @@
-# test-automation-java-template
+# Test Automation project templates/examples on java

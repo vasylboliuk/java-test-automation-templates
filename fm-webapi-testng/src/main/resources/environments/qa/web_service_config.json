@@ -1,0 +1,7 @@
+{
+  "placeholderService": {
+    "apiUrl": "https://jsonplaceholder.typicode.com",
+    "apiPort": 443,
+    "apiBasePath": ""
+  }
+}
